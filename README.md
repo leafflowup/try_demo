@@ -10,7 +10,7 @@ good
 3. feature3
 9. feature11
 ## some code
-'''
+```
 public class TestBitOp {
 
 	public static void main(String[] args) {
@@ -23,4 +23,4 @@ public class TestBitOp {
 	}
 
 }
-'''
+```

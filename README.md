@@ -4,6 +4,6 @@ some description about `doSome()`
 ##another subtitle 
 - usage1
 - usege2
-1. feature1
-2. feature2
+1.feature1
+2.feature2
 good

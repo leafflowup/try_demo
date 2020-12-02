@@ -10,7 +10,7 @@ good
 3. feature3
 9. feature11
 ## some code
-```
+```java
 public class TestBitOp {
 
 	public static void main(String[] args) {

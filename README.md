@@ -42,6 +42,7 @@ some text
 Foo *bar* some **bold**
 =========
 some words
+
 Foo
    --------
 hello

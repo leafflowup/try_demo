@@ -46,3 +46,7 @@ some words
 Foo
    ***
 hello
+
+| foo | bar |
+| --- | --- |
+| baz | bim |

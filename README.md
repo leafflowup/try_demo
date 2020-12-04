@@ -48,5 +48,4 @@ Foo
 hello
 
 | foo | bar |
-| --- | --- |
 | baz | bim |

@@ -37,3 +37,5 @@ just # text
 quote2
 
 some text
+Foo *bar*
+=========

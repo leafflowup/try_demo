@@ -35,6 +35,5 @@ not code**
 just # text
 > some quote1
 quote2
-## this is a head?
 
 some text

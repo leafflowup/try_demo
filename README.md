@@ -54,4 +54,7 @@ hello
 abc *de* fg
 hij
 ab*cd'e*fg'  
-* adbf*
+* adbf*  
+***abc***  
+****abc****  
+*****abc*****

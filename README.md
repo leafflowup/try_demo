@@ -36,7 +36,7 @@ some contents **which are
 not code**  
 just # text
 > some quote1
-quote2
+      quote2
 
 some text
 Foo *bar* some **bold**

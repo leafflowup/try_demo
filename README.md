@@ -16,7 +16,7 @@ public class TestBitOp {
 	public static void main(String[] args) {
 //		int a=Integer.parseInt("01011111000000000000000000100000", 2);
 		int a=-3;
-		System.out.println(a);
+		  System.out.println(a);
 		System.out.println(a<<1);
 		System.out.println(a>>31);		
 		System.out.println((a<<1)^(a>>31));

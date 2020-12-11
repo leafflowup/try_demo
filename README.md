@@ -22,6 +22,10 @@ public class TestBitOp {
 		[A -+ aX·;3]
 		System.out.println((a<<1)^(a>>31));
 		
+		
+		
+		
+		
 	}
 
 }

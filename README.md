@@ -73,3 +73,4 @@ ab*cd'e*fg'
 abc  
 *foo`*  
 **foo **bar
+*[foo*](url)

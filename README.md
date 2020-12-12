@@ -71,4 +71,5 @@ ab*cd'e*fg'
 *****abc**
 # 
 abc  
-*foo`*
+*foo`*  
+**foo **bar baz**

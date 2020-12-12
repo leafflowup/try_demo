@@ -70,7 +70,7 @@ ab*cd'e*fg'
 *****abc*****  
 *****abc**  
 aa *+abc*  
-**aa*bb***
+*aa**bb***
 
 # 
 abc  

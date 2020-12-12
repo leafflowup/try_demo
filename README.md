@@ -79,4 +79,4 @@ abc
 # 2 this is h2
 af
 
-[bar2]: /url "title"
+[bar]: /url "title"

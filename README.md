@@ -72,5 +72,6 @@ ab*cd'e*fg'
 # 
 abc  
 *foo`*  
-**foo **bar
-*[foo*](url)
+**foo **bar  
+*[foo*](url)  
+*[*foo*](url)  

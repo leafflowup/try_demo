@@ -75,3 +75,6 @@ abc
 **foo **bar  
 *[foo*](url)  
 *[*foo*](url)  
+[foo22][bar]
+
+[bar]: /url "title"

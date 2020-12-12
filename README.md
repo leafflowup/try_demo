@@ -75,7 +75,7 @@ abc
 **foo **bar  
 *[foo*](url)  
 *[*foo*](url)  
-      [foo22][bar]
+ aaaa     [foo22][bar]
 
 af
 

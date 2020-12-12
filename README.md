@@ -76,7 +76,7 @@ abc
 *[foo*](url)  
 *[*foo*](url)  
  aaaa     [foo22][bar]
- #2 this is h2
+# 2 this is h2
 af
 
 [bar]: /url "title"

@@ -69,7 +69,8 @@ ab*cd'e*fg'
 ****abc****  
 *****abc*****  
 *****abc**  
-aa *+abc*
+aa *+abc*  
+**aa*bb***
 
 # 
 abc  

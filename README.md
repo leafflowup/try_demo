@@ -108,8 +108,7 @@ aaaaaaa***bbb**b*
 `*ab
 
 c*`
-## new head2
-aa*[foo22](url)**
 
 ## em wrap code
+aa*[foo22](url)**
 *`do*It()`*    em can wrap code only if at the begin of the line

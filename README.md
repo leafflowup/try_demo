@@ -79,7 +79,7 @@ abc
 **foo **bar  
 *[foo*](url)  
 *[*foo*](url)  
- aaaa     * [foo22](url) *
+ aaaa     
 # 2 this is h2
 af
 
@@ -108,3 +108,5 @@ aaaaaaa***bbb**b*
 `*ab
 
 c*`
+## new head2
+* [foo22](url) *

@@ -109,7 +109,7 @@ aaaaaaa***bbb**b*
 
 c*`
 ## new head2
-a*`doIt()`*a
+*`doIt()`*
 
 ## new head2-3
 *`do*It()`*

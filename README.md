@@ -109,4 +109,4 @@ aaaaaaa***bbb**b*
 
 c*`
 ## new head2
-      * [foo22](url) *
+      *[foo22](url)*

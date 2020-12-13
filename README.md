@@ -112,5 +112,4 @@ c*`
 aaaaaaaaa*[foo22](url)*
 aaaaaaaaa*`ddd`*  
 ## new head2-3
-aa+*+abc* 
 *`do*It()`*

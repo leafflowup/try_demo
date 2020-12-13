@@ -93,6 +93,6 @@ code()
 [`foo222`](`mmmm`url "`tttt`title2")   
 [`foo333`]("ttttttttttitle2" )   
 
-[out_a]( "a/in_a_url ) "out_a_title")  
+[out_a]( "a/in_a_url ) "out_a_title")
 
 `[ggg]( a/in_a_url "aaaa")aa`

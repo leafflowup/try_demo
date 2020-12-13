@@ -109,7 +109,6 @@ aaaaaaa***bbb**b*
 
 c*`
 ## new head2
-aaaaaaaaa* [foo22](url) *a
 a* `doIt()` *a
 
 ## new head2-3

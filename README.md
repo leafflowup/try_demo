@@ -88,9 +88,9 @@ af
   
 ccc*aa**bb***  
 aa+*+abc* 
-*`do*It()`*
 ``
 code()
+## link text can contain code_span 
 [`foo222`](`mmmm`url "`tttt`title2")   
 [`foo333`]("ttttttttttitle2" )   
 
@@ -98,17 +98,13 @@ code()
 aaaa  
 `[ggg]( a/in_a_url "aaaa")aa`
 
+## blank line can start a new paragraph
 aa
 
 bb
 
 cc
 
-aaaaaaa***bbb**b*
-`*ab
-
-c*`
-
 ## em wrap code
 aa*[foo22](url)**
-*`do*It()`*    em can wrap code only if at the begin of the line
+*`do*It()`*    em can wrap code_span only if at the begin of the line in the scource. the same rule is for em-to-link

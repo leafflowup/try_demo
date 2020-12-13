@@ -111,6 +111,7 @@ c*`
 ## new head2
 aaaaaaaaa*[foo22](url)*
 aaaaaaaaa*`ddd`*
+*`do*It()`*
 
 ## new head2-3
 *`do*It()`*

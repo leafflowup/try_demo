@@ -79,7 +79,7 @@ abc
 **foo **bar  
 *[foo*](url)  
 *[*foo*](url)  
- aaaa     [foo22][bar]
+ aaaa     * [foo22](url) *
 # 2 this is h2
 af
 

@@ -91,4 +91,6 @@ aa+*+abc*
 ``
 code()
 [`foo222`](`mmmm`url "`tttt`title2")   
-[`foo333`]("ttttttttttitle2" ) 
+[`foo333`]("ttttttttttitle2" )   
+
+[out_a]([in_a](/in_a_url "out_a_title") "out_a_title")

@@ -109,7 +109,7 @@ aaaaaaa***bbb**b*
 
 c*`
 ## new head2
-*`[foo22](url)`*
+*[foo22](url)*
 
 ## new head2-3
 *`do*It()`*

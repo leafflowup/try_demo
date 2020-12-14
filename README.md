@@ -48,7 +48,7 @@ quote4
 
 some text
 
-## Setext headings
+## Setext headings can contain hard_line_breaks
 some words  
 Foo *bar* some **bold**
 =========

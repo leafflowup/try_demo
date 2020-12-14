@@ -98,7 +98,7 @@ code()
 aaaa  
 `[ggg]( a/in_a_url "aaaa")aa`
 ## link text can contain em ，but link tilte can't contain em
-[*foo222*](/url "*title2*")  
+[*foo222*](/u*r*l "*title2*")  
 
 
 ## blank line can start a new paragraph

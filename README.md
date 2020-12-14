@@ -97,6 +97,8 @@ code()
 [out_a]( "a/in_a_url ) "out_a_title")
 aaaa  
 `[ggg]( a/in_a_url "aaaa")aa`
+## line can't contain em
+[*foo222*](/url "title2")
 
 ## blank line can start a new paragraph
 aa

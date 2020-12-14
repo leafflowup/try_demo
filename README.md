@@ -48,37 +48,25 @@ quote4
 
 some text
 
-
-
+## Setext headings
+some words
 Foo *bar* some **bold**
 =========
-some words
 
+
+## Thematic breaks
 Foo
    ***
 hello
 
+## table
 | foo | bar |
 | --- | --- |
 | baz | bim |
 
-abc *de* fg
-hij
-ab*cd'e*fg'  
-* adbf*  
-***abc***  
-****abc****  
-*****abc*****  
-*****abc**  
 
-# 
-abc  
-*foo`*  
-**foo **bar  
-*[foo*](url)  
-*[*foo*](url)  
- aaaa     
-# label model of link,label can be at anywhere
+ 
+## label model of link,label can be at anywhere
 ccc*aa**bb*** 
 
 

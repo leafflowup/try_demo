@@ -107,6 +107,7 @@ cc
 
 ## em contain code
 aaa*[foo22](url)*
+aaa *`doIt()`*
 aaa*commcon_text `code` commcon_text*
 *`do*It()`*    em can contain code_span only if at the begin of the line in the scource. the same rule is for em-to-link
 

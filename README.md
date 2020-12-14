@@ -49,7 +49,7 @@ quote4
 some text
 
 ## Setext headings
-some words
+some words  
 Foo *bar* some **bold**
 =========
 

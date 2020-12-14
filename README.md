@@ -97,8 +97,9 @@ code()
 [out_a]( "a/in_a_url ) "out_a_title")
 aaaa  
 `[ggg]( a/in_a_url "aaaa")aa`
-## link can't contain em
-[*foo222*](/url "title2")
+## link text can contain em ，but link tilte can't contain em
+[*foo222*](/url "*title2*")  
+
 
 ## blank line can start a new paragraph
 aa

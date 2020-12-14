@@ -97,7 +97,7 @@ code()
 [out_a]( "a/in_a_url ) "out_a_title")
 aaaa  
 `[ggg]( a/in_a_url "aaaa")aa`
-## line can't contain em
+## link can't contain em
 [*foo222*](/url "title2")
 
 ## blank line can start a new paragraph
@@ -119,4 +119,5 @@ the same rule is for em-to-link
 this is a line***emspan  
 a* b*
 ## how to deal with unclosed item when inline-parse phase end
-begin*abc `code*abc*`
+begin*abc `code*abc*`  
+*[foo*222*](/url "title2"

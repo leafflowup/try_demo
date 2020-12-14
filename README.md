@@ -116,3 +116,5 @@ the same rule is for em-to-link
 ##  em can contain hard_line_break
 this is a line***emspan  
 a* b*
+## how to deal with unclosed item when inline-parse phase end
+*abc `code*abc*

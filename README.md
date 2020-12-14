@@ -70,8 +70,6 @@ ab*cd'e*fg'
 ****abc****  
 *****abc*****  
 *****abc**  
-aa+*+abc*  
-
 
 # 
 abc  
@@ -122,7 +120,7 @@ a* b*
 ## the rule for left-em-delimiter about puncutaion
 aa *+abc*  
 aa+*+abc*  
-aaa*+abc
+aaa*+abc*
 ## how to deal with unclosed code when inline-parse phase end
 begin*abc `code*abc*
 ## how to deal with unclosed link when inline-parse phase end

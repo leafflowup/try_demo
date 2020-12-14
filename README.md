@@ -81,10 +81,13 @@ abc
 *[*foo*](url)  
  aaaa     
 # label model of link
-[bar]: /url "title"
+ccc*aa**bb*** 
 
-  
-ccc*aa**bb***  
+
+[label_name]: /url "title"
+
+[label link][label_name] 
+ 
 aa+*+abc* 
 
 ## link text can contain code_span 

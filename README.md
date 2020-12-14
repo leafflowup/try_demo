@@ -119,6 +119,6 @@ the same rule is for em-to-link
 this is a line***emspan  
 a* b*
 ## how to deal with unclosed code when inline-parse phase end
-begin*abc `code*abc*`
+begin*abc `code*abc*
 ## how to deal with unclosed link when inline-parse phase end
 *[foo*222*22](/ur*l "title2"

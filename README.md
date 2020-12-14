@@ -120,8 +120,9 @@ the same rule is for em-to-link
 this is a line***emspan  
 a* b*
 ## the rule for left-em-delimiter about puncutaion
-aa *+abc* 
-
+aa *+abc*  
+aa+*+abc*  
+aaa*+abc
 ## how to deal with unclosed code when inline-parse phase end
 begin*abc `code*abc*
 ## how to deal with unclosed link when inline-parse phase end

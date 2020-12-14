@@ -121,4 +121,4 @@ a* b*
 ## how to deal with unclosed code when inline-parse phase end
 begin*abc `code*abc*
 ## how to deal with unclosed link when inline-parse phase end
-*[foo*222*22](/ur*l "title2"
+*[foo*222*22](/url "title2"

@@ -1,7 +1,7 @@
 # try_demo
 ## this subtitle ## is about 'doSome()'
 some description about `doSome()`
-##another subtitle 
+## List
   - usage1
 - usege2
 1. feature1
@@ -9,7 +9,7 @@ some description about `doSome()`
 good
 3. feature3
 9. feature11
-## some code
+## Fence Code Block
 ```java
 public class TestBitOp {
 
@@ -30,14 +30,8 @@ public class TestBitOp {
 
 }
 ``` 
-## h2 next to code block
 
-
-> Lorem ipsum dolor
-sit amet.
-> - Qui *quodsi iracundia*
-> - aliquando id
-  ## contet
+  ## Block Quotes
 some contents **which are  
 not code**  
 just # text
@@ -48,7 +42,7 @@ quote4
 
 some text
 
-## Setext headings can contain hard_line_breaks
+## Setext Headings can contain Hard Line Breaks
 some words  
 Foo *bar* some **bold**
 =========

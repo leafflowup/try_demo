@@ -76,10 +76,9 @@ ccc*aa**bb***
 
 [out_a]( "a/in_a_url ) "out_a_title")
 aaaa  
-`[ggg]( a/in_a_url "aaaa")aa`
-[gg`g]( a/in_a_url "aaaa")aa`
+`[ggg]( a/in_a_url "aaaa")aa`  
+[gg`g]( a/in_a_url "aaaa")aa`  
 [ggg](`a/in_a_url "aaaa")aa`  
-
 
 [gg`g](a/in_a_url "aaaa")aa
 ## link text can contain em ，but link tilte can't contain em

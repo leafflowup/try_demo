@@ -120,4 +120,4 @@ this is a line***emspan
 a* b*
 ## how to deal with unclosed item when inline-parse phase end
 begin*abc `code*abc*`  
-*[foo*222*](/ur*l "title2"
+*[foo*222*22](/ur*l "title2"

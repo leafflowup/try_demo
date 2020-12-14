@@ -80,16 +80,13 @@ abc
 *[foo*](url)  
 *[*foo*](url)  
  aaaa     
-# 2 this is h2
-af
-
+# label model of link
 [bar]: /url "title"
 
   
 ccc*aa**bb***  
 aa+*+abc* 
-``
-code()
+
 ## link text can contain code_span 
 [`foo222`](`mmmm`url "`tttt`title2")   
 [`foo]333`]("ttttttttttitle2" )   

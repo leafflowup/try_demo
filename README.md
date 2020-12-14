@@ -80,7 +80,7 @@ abc
 *[foo*](url)  
 *[*foo*](url)  
  aaaa     
-# label model of link
+# label model of link,label can be at anywhere
 ccc*aa**bb*** 
 
 
@@ -88,7 +88,7 @@ ccc*aa**bb***
 
 [label link][label_name] 
  
-aa+*+abc* 
+
 
 ## link text can contain code_span 
 [`foo222`](`mmmm`url "`tttt`title2")   
@@ -119,6 +119,9 @@ the same rule is for em-to-link
 ##  em can contain hard_line_break
 this is a line***emspan  
 a* b*
+## the rule for left-em-delimiter about puncutaion
+aa *+abc* 
+
 ## how to deal with unclosed code when inline-parse phase end
 begin*abc `code*abc*
 ## how to deal with unclosed link when inline-parse phase end

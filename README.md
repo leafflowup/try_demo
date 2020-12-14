@@ -105,10 +105,10 @@ bb
 
 cc
 
-## em wrap code
-aa*[foo22](url)*
-*`do*It()`*    em can wrap code_span only if at the begin of the line in the scource. the same rule is for em-to-link
+## em contain code
+ *[foo22](url)*
+*`do*It()`*    em can contain code_span only if at the begin of the line in the scource. the same rule is for em-to-link
 
-## hard_line_break can break em
+##  em can contain hard_line_break
 this is a line ***emspan  
 a* b*

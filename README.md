@@ -109,8 +109,10 @@ cc
 aaa*[foo22](url)*
 aaa *`doIt()`*
 aaa*commcon_text `code`*
-*`do*It()`*    em can contain code_span only if the left delimiter is `left-flanking delimiter run` and right delimiter is `right-flanking delimiter run` which can't be a both delimiter like aa\*aa. the same rule is for em-to-link
+*`do*It()`*    
+rules:em can contain code_span only if the left delimiter is `left-flanking delimiter run` and right delimiter is `right-flanking delimiter run` which can't be a both delimiter like aa\*aa.   
+the same rule is for em-to-link
 
 ##  em can contain hard_line_break
-this is a line ***emspan  
+this is a line***emspan  
 a* b*

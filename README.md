@@ -117,4 +117,4 @@ the same rule is for em-to-link
 this is a line***emspan  
 a* b*
 ## how to deal with unclosed item when inline-parse phase end
-*abc `code*abc*
+begin*abc `code*abc*

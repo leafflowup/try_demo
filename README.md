@@ -3,7 +3,7 @@
 some description about `doSome()`  
 * * * 
 some text  
-``code'
+``code`
 ## List
   - usage1
 - usege2

@@ -75,7 +75,7 @@ ccc*aa**bb***
 ## link text can't contain another link
 [[link](/url "tilte")  
 
-[](/url "tilte") 
+[]](/url "tilte") 
 ## link text can contain code_span 
 [`foo222`](`mmmm`url "`tttt`title2")   
 [`foo]333`]("ttttttttttitle2" )   

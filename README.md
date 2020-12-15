@@ -2,7 +2,7 @@
 ## this subtitle ## is about 'doSome()'
 some description about `doSome()`  
 * * * 
-***aa**bb*
+**aa***bb*
 some text  
 aa```co`de`
 ## List

@@ -1,7 +1,8 @@
 # try_demo
 ## this subtitle ## is about 'doSome()'
 some description about `doSome()`  
-  **a**  
+  ** **  
+some text
 ## List
   - usage1
 - usege2

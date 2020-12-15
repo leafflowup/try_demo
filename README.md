@@ -2,7 +2,8 @@
 ## this subtitle ## is about 'doSome()'
 some description about `doSome()`  
 * * * 
-some text
+some text  
+``code'
 ## List
   - usage1
 - usege2

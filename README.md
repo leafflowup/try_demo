@@ -1,7 +1,6 @@
 # try_demo
 ## this subtitle ## is about 'doSome()'
-*`code*()`
-this***em* words** 
+***em**a   
  
 * * * 
 **aa***bb*

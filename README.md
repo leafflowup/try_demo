@@ -4,7 +4,7 @@ some description about `doSome()`
 * * * 
 **aa***bb*
 some text  
-aa``co``de`
+aa``co```de`
 ## List
   - usage1
 - usege2

@@ -119,3 +119,7 @@ aaa*+abc*
 begin*abc `code*abc*
 ## how to deal with unclosed link when inline-parse phase end
 *[foo*222*22](/url "title2"
+## some List example
+I need some thing below"
+- an apple
+- an orange

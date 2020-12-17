@@ -1,6 +1,6 @@
 ## blank line
 line1
-
+line2
 
 line4
 ## this subtitle ## is about 'doSome()'

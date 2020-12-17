@@ -26,7 +26,6 @@ may be less
      
      var c=3
 description
-     
      function modify
 ## Fence Code Block
 ```java

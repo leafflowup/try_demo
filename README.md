@@ -21,6 +21,10 @@ may be less
 - a dog
 ## Indented code blocks
      function create(){
+    var a='text';
+     var b=1;
+     
+     
 ## Fence Code Block
 ```java
 public class TestBitOp {

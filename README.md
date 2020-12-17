@@ -8,10 +8,11 @@ this ***em* words**
 some text  
 aa``co```de``
 ## some List example
-I need some thing below"
+I need some thing below:
 - an apple
 - an orange
 
+- an almond
 ## Fence Code Block
 ```java
 public class TestBitOp {

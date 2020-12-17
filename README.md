@@ -69,6 +69,9 @@ some text
 >```
 abc
 ```
+>```
+>abc
+```
 
 ## Setext Headings can contain Hard Line Breaks
 some words  

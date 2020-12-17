@@ -72,7 +72,7 @@ some text
 >```
 
 quote in quote
->   >inner text
+>  > >inner text
 continue1
 >continue2
 >### head3

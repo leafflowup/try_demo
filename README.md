@@ -66,12 +66,10 @@ quote3
 quote4
 
 some text
->```
-abc
-```
+
 >```
 >abc
-```
+>```
 
 ## Setext Headings can contain Hard Line Breaks
 some words  

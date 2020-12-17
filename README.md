@@ -7,14 +7,11 @@ this ***em* words**
 **aa***bb*
 some text  
 aa``co```de``
-## List
-  - usage1
-- usege2
-1. feature1
-2. feature2
-good
-3. feature3
-9. feature11
+## some List example
+I need some thing below"
+- an apple
+- an orange
+
 ## Fence Code Block
 ```java
 public class TestBitOp {
@@ -119,7 +116,4 @@ aaa*+abc*
 begin*abc `code*abc*
 ## how to deal with unclosed link when inline-parse phase end
 *[foo*222*22](/url "title2"
-## some List example
-I need some thing below"
-- an apple
-- an orange
+

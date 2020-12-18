@@ -1,8 +1,4 @@
->    ppp
->>>     bar
->>>     bar2 
-  
-      next code
+ -aa
 
 ## blank line
 line1

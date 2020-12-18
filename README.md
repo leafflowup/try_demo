@@ -70,8 +70,10 @@ some text
 >```
 >abc
 >```
+>  def
+lazy texts  
 >## head def
-lazy text   
+lazy texts don't work not after paragraph 
 
 quote in quote
 >  > >inner text

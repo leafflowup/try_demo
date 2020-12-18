@@ -1,6 +1,6 @@
 - aa
   bb
-- cc
+-  cc
 
 ## blank line
 line1

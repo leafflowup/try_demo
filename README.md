@@ -1,6 +1,6 @@
 > >  ppp
 >>>    bar
- 
+>>>    bar2 
   
       next code
 

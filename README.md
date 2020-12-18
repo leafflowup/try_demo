@@ -1,4 +1,5 @@
 Foo
+
      bar
 
 ## blank line

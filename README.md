@@ -1,6 +1,9 @@
 Foo
 
      bar
+ 
+  
+      next code
 
 ## blank line
 line1

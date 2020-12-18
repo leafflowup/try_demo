@@ -1,5 +1,5 @@
 Foo
-    bar
+     bar
 
 ## blank line
 line1

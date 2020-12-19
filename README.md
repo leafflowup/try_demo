@@ -36,7 +36,8 @@ may be less
 -  first item
       ## heading can't continue
  
-## thematic break has highter precidence than list line
+## thematic break in list line
+- --  
 - aaa
   bb
   *****  

@@ -1,4 +1,4 @@
-123456789. ok
+1234. ok
   abc
 
 ## blank line

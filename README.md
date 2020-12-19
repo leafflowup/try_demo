@@ -35,6 +35,12 @@ may be less
 ## how indent next to list line
 -  first item
       ## heading can't continue
+ 
+## thematic break has highter precidence than list line
+- aaa
+  bb
+  *****  
+  ccc
 ## Indented code blocks
      function create(){
     var a='text';

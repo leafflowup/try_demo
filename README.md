@@ -1,6 +1,8 @@
-1234. ok
-      ## abc
-44445. not
+1.     indented code
+
+   paragraph
+
+       more code
 
 ## blank line
 line1

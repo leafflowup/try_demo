@@ -1,6 +1,6 @@
 abcd
-- 
-  abc
+- abc
+  efg
 
 ## blank line
 line1

@@ -28,6 +28,9 @@ may be less
   ## inner h2
  ## not right indented h2 can break list
 - a dog
+## how indent next to list line
+-  first item
+  line can't continue
 ## Indented code blocks
      function create(){
     var a='text';

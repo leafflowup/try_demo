@@ -1,5 +1,4 @@
-abcd
-- abc
+ - abc
   efg
 
 ## blank line

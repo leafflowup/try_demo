@@ -1,5 +1,6 @@
- - abc
-   ## efg
+abc
+* 
+  efg
 
 ## blank line
 line1

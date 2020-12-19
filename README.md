@@ -30,7 +30,7 @@ may be less
 - a dog
 ## how indent next to list line
 -  first item
-  line can't continue
+  ## heading can't continue
 ## Indented code blocks
      function create(){
     var a='text';

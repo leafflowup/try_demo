@@ -1,5 +1,6 @@
- -     abc
-   ## head
+  1.  A paragraph
+    with two lines.
+
 ## blank line
 line1
 line2

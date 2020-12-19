@@ -1,6 +1,5 @@
->>- one
->>
-  >  >   two
+123456789. ok
+  abc
 
 ## blank line
 line1

@@ -1,4 +1,4 @@
- - abc
+ -      abc
    ## head
 ## blank line
 line1

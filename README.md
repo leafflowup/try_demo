@@ -1,8 +1,8 @@
-1.      indented code
+1.         indented code
 
    paragraph
 
-      more code
+       more code
 
 ## blank line
 line1

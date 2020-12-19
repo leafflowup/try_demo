@@ -1,6 +1,7 @@
- -   abc
-    abc
-
+- foo
+ - bar
+  - baz
+   - boo
 ## blank line
 line1
 line2

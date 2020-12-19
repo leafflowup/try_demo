@@ -1,4 +1,4 @@
-  1.  A paragraph
+  001.  A paragraph
            with two lines.
 
 ## blank line

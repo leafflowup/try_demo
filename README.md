@@ -25,6 +25,8 @@ may be less
 - a tree
 
   a cat
+  ## inner h2
+ ## not right indented h2 can break list
 - a dog
 ## Indented code blocks
      function create(){

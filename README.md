@@ -1,5 +1,5 @@
   1.  A paragraph
-          with two lines.
+           with two lines.
 
 ## blank line
 line1

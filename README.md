@@ -128,7 +128,7 @@ hello
 
 ## table example
  foo | bar 
-| --- | --- |
+ --- | --- 
 | baz | bim |
 
 

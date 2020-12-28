@@ -134,8 +134,12 @@ foo2 | bar2
  --- | --- 
 | baz | bim |
 
+## table and list mix example
+ - list item1
+ head1 | head2
+--- | --- 
+cell1|cell2
 
- 
 ## label model of link,label can be at anywhere
 ccc*aa**bb*** 
 

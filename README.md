@@ -136,6 +136,7 @@ foo2 | bar2
 
 ## table and list mix example
  - list item1
+ 
  head1 | head2
 --- | --- 
 cell1|cell2

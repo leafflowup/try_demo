@@ -1,3 +1,6 @@
+a
+-
+c
 ## blank line
 line1
 line2

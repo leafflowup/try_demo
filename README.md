@@ -143,6 +143,10 @@ foo2 | bar2
   |head1 | head2|
   |--- | --- |
   |cell1|cell2|
+- list item3 
+  |head1 | head2|
+|--- | --- |
+  |cell1|cell2|
 
 ## label model of link,label can be at anywhere
 ccc*aa**bb*** 

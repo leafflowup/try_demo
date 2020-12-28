@@ -139,6 +139,10 @@ foo2 | bar2
  --- | --- 
 | baz | bim |
 
+ --- | --- 
+ --- | --- 
+| cell1 | cell2 |
+
 ## table and list mix example
  - list item1 
 |head1 | head2|

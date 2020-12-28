@@ -1,14 +1,3 @@
-## list exmaple
-3. list item1 aa
-4. ## heading 2
-       inner code
-       inner code continue
-6. list item2
-
-   > quote text
-quote text contiue
-
-> ## 引用中的标题
 ## blank line
 line1
 line2
@@ -49,6 +38,18 @@ may be less
   bb
   *****  
   ccc
+## list and quote mix exmaple
+3. list item1 aa
+4. ## heading 2
+       inner code
+       inner code continue
+6. list item2
+
+   > quote text
+quote text contiue
+
+> ## 引用中的标题
+
 ## Indented code blocks
      function create(){
     var a='text';
@@ -125,8 +126,8 @@ Foo
    ***
 hello
 
-## table
-| foo | bar |
+## table example
+| foo | bar 
 | --- | --- |
 | baz | bim |
 

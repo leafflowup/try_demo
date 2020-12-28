@@ -133,7 +133,7 @@ foo | bar
 
 ## table example
 foo | bar
---- --- | --- 
+-  | - 
 foo2 | bar2 
  --- | --- 
  --- | --- 

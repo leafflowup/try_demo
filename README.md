@@ -126,9 +126,10 @@ Foo
    ***
 hello
 ## table can break paragraph??
-thisis paragraph
+this is paragraph
 foo | bar
 --- | --- 
+|cell1|cell2|
 
 ## table example
 foo | bar

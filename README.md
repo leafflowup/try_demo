@@ -125,6 +125,10 @@ Foo *bar* some **bold**
 Foo
    ***
 hello
+## table can break paragraph??
+thisis paragraph
+foo | bar
+--- | --- 
 
 ## table example
 foo | bar

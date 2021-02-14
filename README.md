@@ -191,8 +191,8 @@ aaaa
 [*foo222*](/u*r*l "*title2*")  
 
 ## image demo
-![*foo*](/url "title")
-
+![*foo*](/url "title")  
+![*foo](/url "title")
 ## blank line can start a new paragraph
 aa
 

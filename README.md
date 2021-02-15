@@ -1,4 +1,4 @@
-![[foo_link](/link_url "link_title")](/url "title")
+![[foo_link](/link_url "link_title")](https://wordchallenge.blob.core.windows.net/dicthpimage/avenger_3.jpg "title")
 
 - 
 c

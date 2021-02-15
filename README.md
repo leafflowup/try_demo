@@ -1,4 +1,4 @@
-[image_link](https://tse2-mm.cn.bing.net/th/id/OIP._-Lrx6l7vzkwwRF44Eg_JQHaEK?w=291&h=180&c=7&o=5&dpr=1.25&pid=1.7 "*title*")
+![[foo_link](/link_url "link_title")](/url "title")
 
 - 
 c

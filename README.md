@@ -1,8 +1,8 @@
-## image in link and image in image
+## image in link and image in image and link in image
 [![out_alt](https://tse4-mm.cn.bing.net/th/id/OIP.5L0GJoQdVHK7FpQQQVYufAHaLH?w=115&h=180&c=7&o=5&dpr=1.25&pid=1.7 "title")](/link_url2 "link_title2")   
 
 ![![inner_alt](/inner_img_url "inner_itle")](/img_url "title")  
-
+![[link_text](/inner_link_url "inner_link_itle")](/img_url "title")  
 - 
 c
 ## blank line
